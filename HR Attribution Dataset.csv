@@ -1,0 +1,121 @@
+Age,Gender,Department,JobRole,MonthlyIncome,JobSatisfaction,WorkLifeBalance,YearsAtCompany,Overtime,Attrition
+49,Female,Sales,Manager,49375,3,4,14,Yes,No
+35,Male,R&D,Sales Executive,29662,1,4,16,No,Yes
+28,Female,Sales,Sales Executive,36964,3,4,10,Yes,No
+41,Female,Sales,HR Analyst,79638,1,1,16,Yes,Yes
+39,Male,HR,Research Scientist,93666,2,3,12,Yes,No
+43,Female,R&D,Manager,105067,1,1,0,No,No
+31,Male,R&D,HR Analyst,87215,1,3,1,Yes,Yes
+31,Male,HR,Sales Executive,89042,2,1,8,Yes,No
+44,Female,HR,Research Scientist,33284,4,3,2,Yes,No
+44,Male,R&D,HR Analyst,92789,4,1,0,No,No
+23,Male,R&D,Research Scientist,104664,1,4,15,No,Yes
+42,Male,HR,HR Analyst,113468,2,2,5,No,No
+22,Male,Sales,Research Scientist,81389,1,1,16,No,Yes
+44,Female,Sales,Sales Executive,29435,3,3,4,No,No
+50,Male,HR,Manager,74340,3,4,4,Yes,Yes
+22,Female,Sales,Sales Executive,64078,1,1,5,No,Yes
+41,Male,HR,Manager,98832,4,1,2,No,No
+53,Male,Sales,Research Scientist,71293,4,4,4,No,No
+32,Male,Sales,HR Analyst,115981,1,1,4,Yes,Yes
+42,Male,R&D,Sales Executive,98781,1,2,9,No,Yes
+45,Female,R&D,Manager,80403,3,1,9,No,No
+47,Female,Sales,Sales Executive,49124,4,2,18,Yes,Yes
+48,Male,Sales,Manager,115435,1,2,16,No,No
+36,Male,R&D,Sales Executive,63919,3,4,13,Yes,No
+35,Female,R&D,Manager,55247,4,1,8,Yes,No
+23,Male,R&D,Manager,114758,2,4,13,Yes,No
+27,Male,HR,Research Scientist,111747,3,1,0,Yes,Yes
+41,Male,Sales,Manager,82752,4,1,18,Yes,No
+29,Female,R&D,Research Scientist,76573,4,3,12,No,Yes
+38,Female,Sales,Manager,79101,3,1,12,Yes,No
+24,Female,HR,HR Analyst,46646,2,4,3,Yes,Yes
+45,Male,HR,HR Analyst,43049,3,2,0,No,No
+34,Male,R&D,HR Analyst,99605,4,1,16,Yes,Yes
+29,Female,HR,Manager,118116,1,3,7,No,Yes
+46,Female,Sales,Research Scientist,117379,1,4,1,No,No
+22,Female,R&D,Research Scientist,88385,3,1,7,No,No
+40,Female,Sales,Manager,60158,4,4,6,Yes,No
+48,Male,Sales,HR Analyst,85417,1,3,1,Yes,No
+27,Female,HR,HR Analyst,43289,4,3,2,Yes,Yes
+28,Male,HR,Research Scientist,29823,3,4,17,No,No
+34,Female,HR,HR Analyst,80160,1,1,11,Yes,Yes
+37,Male,HR,Sales Executive,61975,4,2,0,Yes,Yes
+24,Female,HR,Research Scientist,29540,1,3,11,Yes,No
+22,Female,R&D,HR Analyst,36364,3,1,4,No,Yes
+26,Female,Sales,Research Scientist,24611,4,1,16,No,Yes
+24,Female,Sales,Sales Executive,47663,1,2,15,Yes,Yes
+49,Male,Sales,Research Scientist,71991,3,3,14,Yes,Yes
+38,Female,Sales,Research Scientist,77679,1,3,14,Yes,No
+46,Male,HR,Research Scientist,50977,1,1,4,Yes,No
+54,Male,Sales,Research Scientist,114704,2,1,13,No,No
+30,Male,R&D,Sales Executive,69115,2,2,1,No,No
+34,Male,R&D,Manager,111007,3,2,10,No,Yes
+51,Female,Sales,Research Scientist,108223,2,3,18,No,Yes
+35,Male,Sales,Research Scientist,80890,3,4,6,Yes,No
+28,Male,R&D,HR Analyst,86387,2,3,5,Yes,No
+34,Male,R&D,Research Scientist,38071,1,1,1,Yes,No
+43,Female,HR,HR Analyst,79275,3,3,5,No,Yes
+41,Female,R&D,Manager,92369,3,4,17,Yes,No
+36,Female,HR,Sales Executive,31938,1,2,1,No,No
+38,Female,HR,Sales Executive,55195,3,4,17,No,No
+44,Male,HR,Manager,111680,3,4,14,Yes,Yes
+46,Male,HR,Sales Executive,24000,2,4,18,Yes,Yes
+45,Female,HR,Manager,90588,3,2,1,Yes,Yes
+49,Male,Sales,Manager,113610,4,4,19,No,Yes
+35,Male,R&D,Manager,117856,1,4,5,Yes,Yes
+21,Male,HR,Sales Executive,58304,2,4,0,No,Yes
+45,Female,R&D,HR Analyst,89449,2,1,14,Yes,Yes
+27,Female,R&D,Manager,102986,4,4,9,No,Yes
+29,Male,HR,Research Scientist,109643,1,2,18,No,No
+44,Female,Sales,Sales Executive,40764,1,4,16,Yes,No
+21,Female,HR,Manager,106027,2,4,4,No,Yes
+28,Female,Sales,Manager,58494,3,2,3,No,Yes
+44,Female,R&D,Research Scientist,23373,2,4,9,Yes,No
+31,Female,Sales,HR Analyst,32161,1,2,16,No,Yes
+37,Male,Sales,HR Analyst,117532,4,4,9,Yes,Yes
+28,Female,Sales,HR Analyst,112658,2,2,16,No,Yes
+53,Male,R&D,Manager,47350,1,4,19,Yes,No
+25,Male,R&D,Manager,113008,2,4,4,Yes,No
+48,Female,Sales,Manager,114297,3,1,1,No,No
+27,Male,Sales,Sales Executive,45351,2,1,5,No,No
+29,Male,HR,Research Scientist,108668,2,4,1,No,No
+28,Male,Sales,Manager,35305,1,4,12,No,Yes
+32,Female,HR,Research Scientist,95353,1,3,10,No,No
+54,Female,Sales,Research Scientist,96797,1,2,10,Yes,Yes
+53,Male,HR,HR Analyst,85953,2,3,15,No,Yes
+43,Female,R&D,Sales Executive,77458,3,1,10,Yes,No
+44,Female,Sales,Manager,40358,4,1,18,Yes,No
+42,Female,Sales,HR Analyst,23267,4,1,14,No,Yes
+47,Female,Sales,HR Analyst,102745,1,1,15,Yes,Yes
+21,Male,Sales,Manager,109588,1,4,10,Yes,Yes
+34,Male,HR,Research Scientist,58513,2,1,15,Yes,No
+23,Female,Sales,HR Analyst,46092,4,4,7,Yes,No
+21,Female,R&D,Research Scientist,31338,1,4,3,No,No
+25,Male,R&D,Sales Executive,20412,3,1,7,Yes,No
+46,Male,Sales,Research Scientist,27543,3,1,3,No,No
+34,Female,R&D,Sales Executive,53496,1,2,2,No,Yes
+47,Male,Sales,Research Scientist,80692,1,3,2,Yes,No
+29,Female,Sales,HR Analyst,109084,4,1,17,No,Yes
+35,Female,R&D,HR Analyst,112920,4,2,18,No,Yes
+35,Male,Sales,Sales Executive,64425,2,2,18,No,Yes
+46,Male,R&D,Manager,58756,4,3,4,Yes,No
+33,Female,HR,Sales Executive,38888,3,4,17,No,No
+52,Female,Sales,Sales Executive,55735,3,1,9,No,No
+52,Male,HR,Research Scientist,67295,1,3,5,No,Yes
+24,Female,R&D,Research Scientist,103042,4,1,0,Yes,Yes
+50,Male,HR,Sales Executive,105999,2,2,4,No,Yes
+43,Female,HR,HR Analyst,37955,3,2,8,Yes,Yes
+35,Male,R&D,Research Scientist,57841,3,4,11,Yes,Yes
+49,Male,HR,Manager,90640,2,2,13,Yes,Yes
+33,Male,HR,Research Scientist,85510,2,2,1,Yes,No
+52,Female,R&D,Research Scientist,54911,3,3,16,Yes,No
+27,Female,HR,Manager,79031,3,1,13,Yes,No
+42,Male,R&D,Sales Executive,108726,2,1,12,No,No
+48,Female,HR,Manager,27357,3,3,8,Yes,Yes
+22,Male,R&D,Sales Executive,52479,1,4,14,No,Yes
+26,Male,R&D,Sales Executive,81476,1,1,14,No,No
+48,Female,HR,Sales Executive,64811,2,2,10,Yes,Yes
+48,Female,HR,Manager,56208,4,1,15,No,No
+40,Male,HR,Sales Executive,40150,2,2,16,No,No
+50,Female,Sales,HR Analyst,91180,2,4,3,No,No
